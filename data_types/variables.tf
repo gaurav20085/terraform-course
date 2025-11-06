@@ -41,7 +41,7 @@ variable "map_of_string" {
   type = map(number)
   default = {
     key1 = 1
-    key2 = 4
+    key2 = 3
   }
 }
 
